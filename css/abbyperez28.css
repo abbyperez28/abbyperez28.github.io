@@ -1,0 +1,11 @@
+body {
+    background-color: lightsteelblue;
+}
+
+h1 {
+    font-family: "cursive", "serif";
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 300;
+}
